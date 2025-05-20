@@ -16,6 +16,7 @@
 <!-- Interests -->
 ## 🎯 Interests
 - Web Development
+- Flutter Developer
 - Artificial Intelligence
 - Robotics ( IoT )
 - DevOps
