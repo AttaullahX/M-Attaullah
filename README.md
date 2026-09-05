@@ -1,26 +1,27 @@
+<!-- Name and Profession -->
 <h1 align="center">👨‍💻 Muhammad Attaullah</h1>
 <h3 align="center" style="color:blue;">Software Engineer💻</h3>
 <p align="center">I'm Muhammad Attaullah, a Software Engineering student at Air University Multan Campus with a growing focus on Software Testing and Quality Assurance. I enjoy finding bugs, building practical applications, and exploring how AI can automate and improve software workflows. Currently, I'm strengthening my skills in Test Automation while exploring App Development, AI Automation, and Agentic AI.</p>
 
 <!-- Education -->
-
 ## 📚 Education
+- Undergraduate in Software Engineering from # 
+[![Air University Multan Campus](https://img.shields.io/badge/Air%20University-Multan-007BFF)](https://aumc.edu.pk/)
 
-* Undergraduate in Software Engineering from [![Air University Multan Campus](https://img.shields.io/badge/Air%20University%20Multan%20Campus-8A2BE2)](https://aumc.edu.pk/)
+
+<!-- Portfolio Website -->
+## 💼 Portfolio Website
+- [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-blue)]()
 
 <!-- Interests -->
-
 ## 🎯 Interests
-
 * Software Testing
 * App Development
 * AI Automation
 * Agentic AI
 
 <!-- Currently Working On -->
-
 ## 🚀 Currently Working On
-
 * Strengthening my skills in Software Testing & Quality Assurance
 * Learning Test Automation
 * Building and exploring App Development projects
