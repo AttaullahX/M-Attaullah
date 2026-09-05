@@ -37,15 +37,10 @@
 ### 🧪 Software Testing
 
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-00897B?style=for-the-badge\&logo=checkmarx\&logoColor=white)
-
 ![Functional Testing](https://img.shields.io/badge/Functional%20Testing-1565C0?style=for-the-badge\&logo=testinglibrary\&logoColor=white)
-
 ![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-6A1B9A?style=for-the-badge\&logo=testinglibrary\&logoColor=white)
-
 ![Black Box Testing](https://img.shields.io/badge/Black%20Box%20Testing-5E35B1?style=for-the-badge\&logo=target\&logoColor=white)
-
 ![Exploratory Testing](https://img.shields.io/badge/Exploratory%20Testing-E65100?style=for-the-badge\&logo=bugcrowd\&logoColor=white)
-
 ![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-C62828?style=for-the-badge\&logo=bugcrowd\&logoColor=white)
 
 ### 📱 App Development
