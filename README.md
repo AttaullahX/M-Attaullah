@@ -119,10 +119,10 @@
 📞+923146309784
 
 **<span style="color:#D14836">Gmail</span>**  
-[![Muhammad Attaullah On Gmail](https://img.shields.io/badge/-Muhammad%20Attaullah%20-red?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Muhammad Attaullah On Gmail](https://img.shields.io/badge/-Muhammad%20Attaullah%20-red?logo=gmail&logoColor=white)](mailto:mattaullah9784@gmail.com)
 
 **<span style="color:#0A66C2">LinkedIn</span>**  
-[![Muhammad Attaullah On LinkedIn](https://img.shields.io/badge/-Muhammad%20Attaullah%20-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Muhammad Attaullah On LinkedIn](https://img.shields.io/badge/-Muhammad%20Attaullah%20-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-attaullah)
 
 <!-- Thank you message -->
 ## 🙏 Thanks For Visiting
