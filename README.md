@@ -2,9 +2,9 @@
 
 <h1 align="center">Muhammad Attaullah</h1>
 
-<h3 align="center">Software Engineering Student</h3>
+<h3 align="center">Software Engineering Student | Software Testing | App Development | AI Automation</h3>
 
-<p align="center">I'm Muhammad Attaullah, a Software Engineering student at Air University Multan Campus, currently in my 7th semester. I am passionate about Software Testing, App Development, AI Automation, and Agentic AI. I enjoy building practical software projects, exploring emerging technologies, and continuously improving my technical and problem-solving skills.</p>
+<p align="center">I'm Muhammad Attaullah, a Software Engineering student at Air University Multan Campus with a growing focus on Software Testing and Quality Assurance. I enjoy finding bugs, building practical applications, and exploring how AI can automate and improve software workflows. Currently, I'm strengthening my skills in Test Automation while exploring App Development, AI Automation, and Agentic AI.</p>
 
 <!-- Education -->
 
@@ -21,19 +21,30 @@
 * AI Automation
 * Agentic AI
 
+<!-- Currently Working On -->
+
+## 🚀 Currently Working On
+
+* Strengthening my skills in Software Testing & Quality Assurance
+* Learning Test Automation
+* Building and exploring App Development projects
+* Exploring AI Automation and Agentic AI
+
 # 💻 Tech Stack:
 
 ### 🧪 Software Testing
 
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-2E7D32?style=for-the-badge)
 
-![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-2E7D32?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-2E7D32?style=for-the-badge)
 
-![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-2E7D32?style=for-the-badge)
+![Black Box Testing](https://img.shields.io/badge/Black--Box%20Testing-2E7D32?style=for-the-badge)
 
 ![Exploratory Testing](https://img.shields.io/badge/Exploratory%20Testing-2E7D32?style=for-the-badge)
 
-![Functional Testing](https://img.shields.io/badge/Functional%20Testing-2E7D32?style=for-the-badge)
+![Test Cases](https://img.shields.io/badge/Test%20Case%20Design-2E7D32?style=for-the-badge)
+
+![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-2E7D32?style=for-the-badge)
 
 ### 📱 App Development
 
@@ -126,6 +137,7 @@
 ## 🛠️ Hobbies
 
 * Coding
+* Finding Bugs 
 * Exploring New Technologies
 * Playing Cricket
 * Building Personal Projects
