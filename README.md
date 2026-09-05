@@ -1,83 +1,254 @@
-<!-- Name and Profession -->
-<h1 align="center">Muhammad Hayat Ishfaq</h1>
-<h3 align="center" style="color:blue;">Software Engineer</h3>
-<p align="center">I'm Muhammad Hayat Ishfaq, a proactive Software Engineering student at Air University Islamabad, driven by a passion for Flutter App Development, Artificial Intelligence, and Data Analytics. I specialize in crafting bespoke websites, apps and innovative SaaS Solutions, always eager to collaborate with fellow innovators. Let's connect on LinkedIn and bring our ideas to life!</p>
+<h1 align="center">Hi 👋, I'm Muhammad Attaullah</h1>
 
-<!-- Education -->
-## 📚 Education
-- Undergraduate in Software Engineering from # [![Air University Islamabad](https://img.shields.io/badge/AIR%20University%20Islamabad-8A2BE2)](https://au.edu.pk)
+<h3 align="center">Software Engineering Student | Software Testing | App Development | AI Automation</h3>
 
+<p align="center">
+  <i>Building software, learning through projects, and exploring better ways to test and automate technology.</i>
+</p>
 
-<!-- Interests -->
+---
+
+## 👨‍💻 About Me
+
+I am a **Software Engineering student at Air University Multan Campus**, currently in my **7th semester**. I enjoy working on practical software projects and continuously improving my technical and problem-solving skills.
+
+My primary focus is **Software Testing and Quality Assurance**, with hands-on experience in manual testing, test case design, defect identification, exploratory testing, and software quality evaluation. I am currently learning **Test Automation** to expand my testing skills.
+
+Alongside testing, I have experience in **mobile application development, AI/Generative AI, RAG-based systems, and workflow automation**.
+
+---
+
 ## 🎯 Interests
-- App Development
-- AI Automations
-- Agentic AI
-- Data Analytics
-  
-# 💻 Tech Stack:
 
-### 📱 App Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+* Software Testing
+* App Development
+* AI Automation
+* Agentic AI
 
-### 🤖 AI Automation & Backend
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+---
 
-### 📊 Data Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![MS Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+## 🎓 Education
 
-### 🌐 Web & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+**Bachelor of Science in Software Engineering (BSSE)**
+Air University Multan Campus
+**7th Semester**
 
-### 🎨 Design & Creativity
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+---
 
+## 🛠️ Tech Stack
 
-### Others:
-  - Software Development Life Cycle (SDLC)
-  - Requirements Engineering
-  - Software Design (Diagramming)
-  - Object Oriented Programming
-  - Microsoft Access
-  - Microsoft Excel
-  - Microsoft PowerPoint
-  - Flowcharts
-  - Oracle Database
-  - Data Structures and Algorithms
+### Programming Languages
 
-<!-- Services I Offer -->
-## 💼 Services I Offer
-- Custom cross platform App Development
-- Python Development
-- MVP and Prototype Development
-- Excel Data Analysis and Data Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,dart" />
+</p>
 
+### App Development
 
-<!-- Hobbies -->
-## 🛠️ Hobbies
-- Reading Books
-- Coding
-- Playing Cricket
-- DIY Robotics
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
 
-<!-- Contact Details -->
-## 📧 Contact Details
-- Email: [![contact.mhayat@gmail.com](https://img.shields.io/badge/Email-contact.mhayat@gmail.com-8A2BE2)](mailto:contact.mhayat@gmail.com)
-- LinkedIn: [![Muhammad Hayat Ishfaq](https://img.shields.io/badge/Muhammad%20Hayat%20Ishfaq-8A2BE2)](https://www.linkedin.com/in/hayat-ishfaq)
+Flutter • Dart • Firebase Authentication • Cloud Firestore • Provider
 
-<!-- Thank you message -->
-## 🙏 Thanks For Visiting
-<span style="font-size:18px; font-weight:bold">Regards,  
-Muhammad Hayat Ishfaq</span>
+### AI & Automation
+
+Python • Generative AI • RAG • Semantic Search • LLM Integration • n8n • Prompt Engineering
+
+### Software Testing
+
+Manual Testing • Functional Testing • Black-Box Testing • Exploratory Testing • Test Case Design • Test Execution • Defect Reporting • Regression Testing • Smoke & Sanity Testing • Usability Testing • Compatibility Testing
+
+### Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+MySQL • Oracle Database • NumPy • Pandas • Data Analysis
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,canva" />
+</p>
+
+Git • GitHub • VS Code • Android Studio • Figma • Canva • Jupyter Notebook • Jira • Confluence
+
+---
+
+## 📚 Software Engineering Knowledge
+
+* Software Development Life Cycle (SDLC)
+* Software Testing & Quality Assurance
+* Software Requirements Engineering
+* Software Project Management
+* Agile & Scrum
+* Software Design & Architecture
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Human-Computer Interaction
+* Database Management
+* Generative AI & RAG
+
+---
+
+## 🚀 Featured Projects
+
+### 💊 Gentle Dose
+
+**Flutter | Dart | Firebase | Provider**
+
+A healthcare-focused mobile application for managing medications, appointments, reminders, medication progress, and caregiver monitoring.
+
+**Key Areas:**
+Medication Management • Appointment Management • Reminders • Patient/Caregiver Workflows • Progress Tracking • Authentication
+
+The project was also managed using **Agile Scrum, Jira, and Confluence** as part of Software Project Management.
+
+---
+
+### 🧪 OpenCart Demo Testing
+
+**Software Quality Engineering | Manual Testing**
+
+A Software Quality Engineering project focused on testing the OpenCart Demo Website through manual testing and structured test documentation.
+
+**Key Areas:**
+Test Case Design • Functional Testing • Black-Box Testing • Regression Testing • Exploratory Testing • Defect Reporting • Software Quality Metrics
+
+---
+
+### 📄 Smart Paper Analyst
+
+**Python | RAG | FAISS | Sentence Transformers | n8n**
+
+An AI-powered academic research assistant that uses Retrieval-Augmented Generation to analyze research papers and provide relevant information from uploaded PDF documents.
+
+**Key Areas:**
+PDF Analysis • Semantic Search • RAG • Paper Summarization • Multi-Paper Comparison • Research Gap Analysis • AI Chatbot • Workflow Automation
+
+---
+
+### 🔄 Process Synchronization Simulator
+
+**Python | Tkinter | Operating Systems**
+
+An interactive simulator for understanding classical operating-system synchronization problems.
+
+**Includes:**
+Producer-Consumer • Reader-Writer • Dining Philosophers • Semaphores • Mutexes • Thread-State Visualization • Execution Logging • Deadlock Detection
+
+---
+
+### 🏏 CricVision
+
+**AI | Computer Vision | Flutter | Sports Analytics**
+
+A proposed AI-powered mobile cricket performance analysis system designed around smartphone-based computer vision.
+
+The project currently consists of **HCI prototype, Software Requirements Specification (SRS), and Software Design Document (SDD)**.
+
+---
+
+### 🎟️ AUMC Event Manager
+
+**C++ | OOP | UI/UX**
+
+A university-focused Society & Event Management System developed through a **console-based C++ implementation** and a **mobile UI/UX prototype**.
+
+**Key Areas:**
+Student Management • Society Events • Join Requests • Issue Reporting • Event Administration • Role-Based Workflows
+
+---
+
+### 🔐 Image Encryption Using Linear Algebra
+
+**Python | NumPy | Pillow | Matplotlib**
+
+A Python-based image encryption project implementing XOR-based pixel transformation for image encryption and decryption, along with RGB histogram visualization.
+
+---
+
+### 🏥 Hospital Management System
+
+**C++ | OOP | STL**
+
+A console-based Hospital Management System implementing patient and doctor management, emergency prioritization, appointment handling, treatment history, and file-based data persistence.
+
+---
+
+### 📊 Pakistan Exports Statistical Analysis
+
+**Python | Pandas | NumPy | Matplotlib | Minitab**
+
+A Probability & Statistics project analyzing Pakistan's export data using statistical analysis, visualization, probability distributions, correlation, regression, ANOVA, and hypothesis testing.
+
+---
+
+### 🔢 Queue Operation Visualization
+
+**x86 Assembly | Data Structures | EMU8086**
+
+A menu-driven x86 Assembly project implementing an array-based queue with enqueue, dequeue, display, FIFO processing, and full/empty queue handling in a DOS environment.
+
+---
+
+### 🔃 Sorting Visualizer & E-Commerce Demo
+
+**HTML | CSS | JavaScript | DAA**
+
+An interactive sorting algorithm visualizer featuring real-time animations, performance statistics, multiple sorting variants, and e-commerce product data.
+
+**Algorithms include:**
+Bubble Sort • Selection Sort • Insertion Sort • Merge Sort • Quick Sort • Heap Sort • Counting Sort • Radix Sort
+
+---
+
+## 💡 Other Skills
+
+* Requirements Analysis
+* Software Documentation
+* Software Quality Metrics
+* UI/UX Design
+* Data Analysis & Visualization
+* Problem Solving
+* Technical Documentation
+* Project Planning
+* Version Control
+
+---
+
+## 🏏 Hobbies & Interests
+
+* Cricket
+* Coding & Software Projects
+* Exploring New Technologies
+* UI/UX Design
+* Learning about AI & Automation
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/m-attaullah">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Attaullah-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:mattaullah9784@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.instagram.com/atta_ullah16/">
+    <img src="https://img.shields.io/badge/Instagram-atta__ullah16-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100072241077073">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b><br>
+  <i>Always learning. Always building. Always improving.</i>
+</p>
